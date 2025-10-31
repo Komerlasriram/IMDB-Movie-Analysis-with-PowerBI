@@ -31,15 +31,6 @@ To run this project, you need to install the following packages:
 pip install pandas
 pip install Pillow
 ```
-
-**Usage**
-
-To use this project, follow these steps:
-
-1. Clone the repository: ```git clone https://github.com/gopiashokan/IMDB-Movie-Analysis-with-PowerBI.git```
-2. Install the required packages: ```pip install -r requirements.txt```
-
-
 **Features**
 
 **Data Preprocessing:**
@@ -87,4 +78,5 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
 ![](https://github.com/gopiashokan/IMDB-Movie-Analysis-with-PowerBI/blob/main/Dashboards/Dashboard%205.jpg)
+
 
