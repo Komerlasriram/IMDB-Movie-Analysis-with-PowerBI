@@ -80,10 +80,11 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 **Contact**
 
-📧 Email: gopiashokankiot@gmail.com 
+📧 Email: komerlasriram2002@gmail.com 
 
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
+🌐 LinkedIn: [linkedin.com/in/KomerlaSriram](https://www.linkedin.com/in/komerlasriram/)
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
 ![](https://github.com/gopiashokan/IMDB-Movie-Analysis-with-PowerBI/blob/main/Dashboards/Dashboard%205.jpg)
+
